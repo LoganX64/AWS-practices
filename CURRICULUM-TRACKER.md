@@ -34,9 +34,9 @@ Never mark an AWS feature as tested merely because you studied its documentation
 
 ## Last Studied
 
-* **Module:**
-* **Topic:**
-* **Date:**
+* **Module:** 02 — AWS CLI
+* **Topic:** CLI Fundamentals
+* **Date:** 2026-09-21
 
 ---
 
@@ -44,8 +44,8 @@ Never mark an AWS feature as tested merely because you studied its documentation
 
 | # | Module | Status | Last Updated |
 |---|--------|--------|--------------|
-| 01 | AWS Fundamentals | [ ] | |
-| 02 | AWS CLI | [ ] | |
+| 01 | AWS Fundamentals | [x] | 2026-09-21 |
+| 02 | AWS CLI | [x] | 2026-09-21 |
 | 03 | Terraform Basics | [ ] | |
 | 04 | IAM | [ ] | |
 | 05 | S3 | [ ] | |
@@ -122,24 +122,24 @@ Never mark an AWS feature as tested merely because you studied its documentation
 
 ### CLI Fundamentals
 
-* [ ] Install AWS CLI
-* [ ] `aws --version`
-* [ ] AWS CLI structure
-* [ ] Commands
-* [ ] Subcommands
-* [ ] Options
-* [ ] Output formats
-* [ ] JSON output
-* [ ] Table output
-* [ ] Text output
-* [ ] `--query`
-* [ ] `--filter`
-* [ ] Environment variables
-* [ ] Profiles
-* [ ] Region configuration
-* [ ] Credentials concept
-* [ ] AWS CLI help
-* [ ] Reading AWS CLI documentation
+* [x] Install AWS CLI
+* [x] `aws --version`
+* [x] AWS CLI structure
+* [x] Commands
+* [x] Subcommands
+* [x] Options
+* [x] Output formats
+* [x] JSON output
+* [x] Table output
+* [x] Text output
+* [x] `--query`
+* [x] `--filter`
+* [x] Environment variables
+* [x] Profiles
+* [x] Region configuration
+* [x] Credentials concept
+* [x] AWS CLI help
+* [x] Reading AWS CLI documentation
 
 ### PowerShell
 
@@ -1448,8 +1448,8 @@ C = Concept learned but not locally testable
 
 ## Phase 1 — Foundations
 
-* [ ] 01 Fundamentals
-* [ ] 02 AWS CLI
+* [x] 01 Fundamentals
+* [x] 02 AWS CLI
 * [ ] 03 Terraform Basics
 
 ## Phase 2 — Core Services
